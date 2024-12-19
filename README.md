@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/omar-ezker/omar-ezker/blob/main/avatar.png" align="center" height="200" width="200" />
+  <img src="https://github.com/ezkeromar/ezkeromar/me.png" align="center" height="200" width="200" />
 </div>
 
 ### <div align="center">I'm Omar EZKER, a Lead Full-Stack Developer from Casablanca, Morocco 🚀</div>  
@@ -144,14 +144,3 @@
 - **Arabic:** Native  
 - **French:** Fluent  
 - **English:** Advanced  
-
----
-
-<div align="center">
-  <a href="https://github.com/omar-ezker">
-    <img src="https://github-readme-stats.vercel.app/api?username=omar-ezker&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/omar-ezker">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ezker&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
