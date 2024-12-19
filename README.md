@@ -7,9 +7,9 @@
 ---
 
 - 📫 **Contact:** [ezkeromar@gmail.com](mailto:ezkeromar@gmail.com) | +212 6 57 35 54 63
-- 🌱 Continuously enhancing my skills in web technologies and exploring new trends
-- ❓ Open to answering questions related to web development and DevOps
-- ⚡ **Fun Fact:** I'm also a passionate bodybuilder 🏋️
+- 🌱 Building a portfolio of bootstrapped SaaS products
+- ❓ Open to answering questions related to web development
+- ⚡ **Traveller:** I love exploring new places and cultures 🌍
 
 ---
 
@@ -143,4 +143,4 @@
 ## 🌐 Languages
 - **Arabic:** Native  
 - **French:** Fluent  
-- **English:** Advanced  
+- **English:** Fluent  
