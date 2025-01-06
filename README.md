@@ -7,7 +7,7 @@
 ---
 
 - 📫 **Contact:** [ezkeromar@gmail.com](mailto:ezkeromar@gmail.com) | +212 6 57 35 54 63
-- <a href="https://prosoft.agency" target="_blank">Visit Prosoft Agency</a>
+- 🌐 **Let’s work together:** <a href="https://prosoft.agency" target="_blank">Visit Prosoft Agency</a>
 - 🌱 Building a portfolio of bootstrapped SaaS products
 - ❓ Open to answering questions related to web development
 - ⚡ **Traveller:** I love exploring new places and cultures 🌍
