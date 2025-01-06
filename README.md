@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/ezkeromar/ezkeromar/blob/main/me.png" align="center" height="200" width="200" />
-</div>
-
 ### <div align="center">I'm Omar EZKER, a Lead Full-Stack Developer from Casablanca, Morocco 🚀</div>  
 
 ---
